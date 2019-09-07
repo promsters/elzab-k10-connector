@@ -1,0 +1,6 @@
+C:\Users\Tomek\Downloads\ecrinst\ecrinst\Przykłady implementacji\Windows\Visual C# Express Edition 2005\przyklad\elzab-k10-connector\bin\x86\Debug\elzb-k10-connector.exe
+C:\Users\Tomek\Downloads\ecrinst\ecrinst\Przykłady implementacji\Windows\Visual C# Express Edition 2005\przyklad\elzab-k10-connector\bin\x86\Debug\elzb-k10-connector.pdb
+C:\Users\Tomek\Downloads\ecrinst\ecrinst\Przykłady implementacji\Windows\Visual C# Express Edition 2005\przyklad\elzab-k10-connector\obj\x86\Debug\elzab-k10-connector.csprojAssemblyReference.cache
+C:\Users\Tomek\Downloads\ecrinst\ecrinst\Przykłady implementacji\Windows\Visual C# Express Edition 2005\przyklad\elzab-k10-connector\obj\x86\Debug\elzab-k10-connector.csproj.CoreCompileInputs.cache
+C:\Users\Tomek\Downloads\ecrinst\ecrinst\Przykłady implementacji\Windows\Visual C# Express Edition 2005\przyklad\elzab-k10-connector\obj\x86\Debug\elzb-k10-connector.exe
+C:\Users\Tomek\Downloads\ecrinst\ecrinst\Przykłady implementacji\Windows\Visual C# Express Edition 2005\przyklad\elzab-k10-connector\obj\x86\Debug\elzb-k10-connector.pdb

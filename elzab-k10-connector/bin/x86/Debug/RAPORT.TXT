@@ -1,0 +1,11 @@
+#01	COM3:115200:STX0:1:E	5	2019.09.07	16:59	KDBarkod	WIN 13.14.2019	kdbarkod.in
+#0	; akcja zakonczona sukcesem
+#ELZAB K10 3000 PLU II gen. ver. 01 (identyfikator odczytany z urzadzenia i pliku ECRTBUF.TXT)
+$7
+$3
+$0
+$7
+$0
+$00000	00000
+$7	0	
+$0000
